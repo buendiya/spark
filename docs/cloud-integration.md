@@ -84,7 +84,7 @@ is set to the chosen version of Spark:
 <dependencyManagement>
   ...
   <dependency>
-    <groupId>org.apache.spark</groupId>
+    <groupId>jingsz</groupId>
     <artifactId>hadoop-cloud_2.11</artifactId>
     <version>${spark.version}</version>
   </dependency>

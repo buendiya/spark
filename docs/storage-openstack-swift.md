@@ -28,7 +28,7 @@ For example, for Maven support, add the following to the <code>pom.xml</code> fi
 <dependencyManagement>
   ...
   <dependency>
-    <groupId>org.apache.spark</groupId>
+    <groupId>jingsz</groupId>
     <artifactId>hadoop-cloud_2.11</artifactId>
     <version>${spark.version}</version>
   </dependency>
